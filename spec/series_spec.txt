@@ -2,6 +2,7 @@
 By Genre:----------------------------------------------------------
 
 Body Horror
+- Altered Carbon
 - Death's Game
 - Don't Look Deeper
 - Grid
